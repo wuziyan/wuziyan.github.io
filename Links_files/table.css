@@ -1,0 +1,20 @@
+.table_bg {
+	BACKGROUND-COLOR: #FFFFFF
+}
+.table_head {
+	BACKGROUND-COLOR: #2d2d2d; COLOR: #f5f3f3
+}
+.table_col_0 {
+	BACKGROUND-COLOR: #0d0d0d; COLOR: #f5f3f3
+}
+.table_col_1 {
+	BACKGROUND-COLOR: #1d1d1d; COLOR: #f5f3f3
+}
+.table_col_2 {
+	BACKGROUND-COLOR: #000000;
+	COLOR: #f5f3f3
+}
+.table_col_3 {
+	BACKGROUND-COLOR: #0D0D0D;
+	COLOR: #f5f3f3
+}
