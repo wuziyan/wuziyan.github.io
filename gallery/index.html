@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom"/>
+<title>Site Title</title>
+<!-- Download PostcardViewer at www.airtightinteractive.com/projects/postcardviewer -->
+<script type="text/javascript" src="swfobject.js"></script>
+<style type="text/css">	
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+	
+	#flashcontent {
+		height: 100%;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background-color: #333333;
+		color: #ffffff;
+		font-family:sans-serif;
+		font-size:40;
+	}	
+	a {	
+		color:#cccccc;
+	}
+</style>
+</head>
+<body>
+	<div id="flashcontent">PostcardViewer requires Adobe Flash. <a href="http://www.macromedia.com/go/getflashplayer/">Get Adobe Flash.</a> If you have Flash installed, <a href="index.html?detectflash=false">click to view gallery</a></div>	
+	<script type="text/javascript">
+		var fo = new SWFObject("viewer.swf", "viewer", "100%", "100%", "8", "#333333" );
+		
+		fo.addVariable( "langOpenImage", "Open Image in New Window" );
+		fo.addVariable("langAbout", "About");	
+		fo.addVariable("langNoImages", "No images");	
+		fo.addVariable("xmlURL", "gallery.xml");
+
+		fo.write("flashcontent");	
+	</script>
+</body>
+</html>
