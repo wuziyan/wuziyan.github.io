@@ -110,6 +110,15 @@ html[data-theme='day'] .footer-links a {
 html[data-theme='day'] .footer-meta {
   color: rgba(118, 124, 135, 0.6);
 }
+html[data-theme='day'] .footer-credit {
+  color: rgba(118, 124, 135, 0.5);
+}
+html[data-theme='day'] .footer-credit a {
+  color: rgba(100, 107, 119, 0.6);
+}
+html[data-theme='day'] .footer-credit a:hover {
+  color: rgba(60, 66, 77, 0.8);
+}
 html[data-theme='day'] .pub-tag {
   background: rgba(11,114,185,0.14);
   color: rgba(15,23,42,0.85);
@@ -775,9 +784,10 @@ table.pubs td[width="75%"] > p {
   color: rgba(224,224,224,0.82);
 }
 table.pubs td[width="75%"] > p:first-child {
-  margin-bottom: 12px;
+  margin-bottom: 18px;
   font-size: var(--base-font-size);
   color: var(--text);
+  font-weight: 700;
 }
 table.pubs td[width="75%"] > p:last-child,
 table.pubs td[width="75%"] > p:nth-last-child(2) {
@@ -941,6 +951,19 @@ footer p {
   margin-top: 18px;
   font-size: var(--base-font-size);
   color: rgba(224,224,224,0.5);
+}
+.footer-credit {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: rgba(224,224,224,0.4);
+}
+.footer-credit a {
+  color: rgba(224,224,224,0.5);
+  text-decoration: none;
+  transition: color .2s ease;
+}
+.footer-credit a:hover {
+  color: rgba(224,224,224,0.7);
 }
 .section-body {
   margin: 0;
