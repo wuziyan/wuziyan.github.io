@@ -4,13 +4,14 @@
     <meta http-equiv="content-type" content="text/html; charset=us-ascii">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
-    <meta name="color-scheme" content="light">
+    <meta name="color-scheme" content="dark">
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" type="image/png" href="seal_icon.png">
     <title>Ziyan Wu</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   </head>
   <!-- Google tag (gtag.js) -->
@@ -23,10 +24,14 @@
   gtag('config', 'G-E97EGMN96G');
 </script>
   <body>
+    <div class="scroll-progress"></div>
     <a id="top"></a>
     <nav class="site-header">
       <div class="site-header__inner">
         <a class="brand" href="#top">Ziyan Wu</a>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+          <i class="fa-solid fa-bars"></i>
+        </button>
         <div class="site-nav">
           <a href="#news">News</a>
           <a href="#publications">Publications</a>
@@ -59,7 +64,7 @@
                         Scholar</a>  <a href="http://www.linkedin.com/in/wuziyan/"><i class="fa-brands fa-linkedin"></i> 
                         LinkedIn</a> <a href="mailto:ziyan@alum.rpi.edu"><i class="fa-solid fa-envelope"></i> Email</a></p>
                   </td>
-                  <td width="33%"> 
+                  <td width="20%"> 
 				  <img src="ziyan_wu.jpg" height="230" width="230"> </td>
                 </tr>
               </tbody>
@@ -67,44 +72,49 @@
             <table width="100%" cellspacing="0" cellpadding="20" border="0" align="center" class="section">
               <tbody>
                 <tr>
-                  <td width="100%" valign="middle"><heading id="openings">Openings</heading>
-				  <ul>
-						<li> <span class="auto-style3"><strong>[Internship]</strong></span> We are looking for 
-					    multiple research interns with Computer Vision 
-					   and Robotics background to join our Boston team for 
-						Spring and Summer 2025. Please 
-					   send me an email at 
-						 <span class="auto-style1"> <em>ziyan.wu AT uii-ai DOT com</em></span> if you are interested.</li>
-				  </ul>
-                  <p> <heading id="news">News</heading>
-                    </p>
-				  <ul>
-				  	    <li> We 
-						are organizing the<a href="https://apahws.github.io/">&nbsp;F<span class="auto-style1">irst 
-						Workshop on Advanced Perception for Autonomous Healthcare</span></a>, in conjunction with ICCV 2025. </li>
-						<li> We organized the<a href="https://fadetrcv.github.io/2025/">&nbsp;Sixth Workshop on Fair, Data Efficient and Trusted Computer Vision</a>, 
-						in conjunction with CVPR 2025. </li>
-
-				  		<li>I delivered a talk on &quot;Autonomizing Medical Devices with Visual Perception&quot; 
-						at the 
-						<a href="https://sites.google.com/view/ai4healthcarefg/">AI4Healthcare Workshop</a> 
-						in conjunction with FG 2023 on January 5, 2023. </li>
-						<li>We are organized the<a href="https://wvbsd.github.io/2022/index.html">&nbsp;Third Workshop on Vision with Biased and Scarce Data</a>, in 
-						conjunction with ECCV 2022, on October 24, 2022.</li>
-						<li>I delivered a talk on &quot;<a href="https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html">Empowering 
-						Medical Scanners with Autonomy</a>&quot; at the
-						<a href="https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html">IAD Days</a> for
-						<a href="https://www.buffalo.edu/ai-data-science.html">Institute for 
-						Artificial Intelligence and Data Science</a>, University 
-						of Buffalo. </li>
-				  </ul>
+                  <td width="100" valign="top"><heading id="openings">Openings</heading></td>
+                  <td valign="top">
+			  <ul>
+					<li> <span class="auto-style3"><strong>[Internship]</strong></span> We are looking for 
+				    multiple research interns with Computer Vision 
+				   and Robotics background to join our Boston team for 
+					Spring and Summer 2025. Please 
+				   send me an email at 
+					 <span class="auto-style1"> <em>ziyan.wu AT uii-ai DOT com</em></span> if you are interested.</li>
+			  </ul>
                   </td>
                 </tr>
                 <tr>
-                  <td width="100%" valign="middle"> <heading id="research">Research</heading>
+                  <td width="100" valign="top"><heading id="news">News</heading></td>
+                  <td valign="top">
+			  <ul>
+			  	    <li> We 
+					are organizing the<a href="https://apahws.github.io/">&nbsp;F<span class="auto-style1">irst 
+					Workshop on Advanced Perception for Autonomous Healthcare</span></a>, in conjunction with ICCV 2025. </li>
+					<li> We organized the<a href="https://fadetrcv.github.io/2025/">&nbsp;Sixth Workshop on Fair, Data Efficient and Trusted Computer Vision</a>, 
+					in conjunction with CVPR 2025. </li>
+
+			  		<li>I delivered a talk on &quot;Autonomizing Medical Devices with Visual Perception&quot; 
+					at the 
+					<a href="https://sites.google.com/view/ai4healthcarefg/">AI4Healthcare Workshop</a> 
+					in conjunction with FG 2023 on January 5, 2023. </li>
+					<li>We are organized the<a href="https://wvbsd.github.io/2022/index.html">&nbsp;Third Workshop on Vision with Biased and Scarce Data</a>, in 
+					conjunction with ECCV 2022, on October 24, 2022.</li>
+					<li>I delivered a talk on &quot;<a href="https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html">Empowering 
+					Medical Scanners with Autonomy</a>&quot; at the
+					<a href="https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html">IAD Days</a> for
+					<a href="https://www.buffalo.edu/ai-data-science.html">Institute for 
+					Artificial Intelligence and Data Science</a>, University 
+					of Buffalo. </li>
+			  </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="100" valign="top"><heading id="research">Research</heading></td>
+                  <td valign="top">
                     <p>My research interests are computer vision and machine
                       learning, with special focus on human pose and shape 
-					estimation, explainable AI, object detection and
+				estimation, explainable AI, object detection and
                       tracking, anomaly detection, augmented reality, scene
                       understanding, human re-identification and camera calibration.</p>
                   </td>
@@ -1054,7 +1064,7 @@ A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visua
 					Recognition (<strong>CVPR</strong>)</em>, 2021 <br>
 					</p>
                     <p>We propose a novel framework to interpret neural networks which extracts relevant class-specific visual concepts and organizes them using structural concepts graphs based on pairwise concept relationships. By means of knowledge distillation,
-we show VRX can take a step towards mimicking the reasoning process of NNs and provide logical, concept-level explanations for final model decisions. With extensive experiments, we empirically show VRX can meaningfully answer &#8220;why&#8221; and &#8220;why not&#8221; questions about the prediction,
+we show VRX can take a step towards mimicking the reasoning process of NNs and provide logical, concept-level explanations for final model decisions. With extensive experiments, we empirically show VRX can meaningfully answer &#8220;"why&#8221; and &#8220;"why not&#8221; questions about the prediction,
 providing easy-to-understand insights about the reasoning process. We also show that these insights can potentially provide guidance on improving NN&#8217;s performance.
  </p>
                   </td>
@@ -1986,15 +1996,11 @@ the correct bags. </p>
 
               </tbody>
             </table>
-            <table width="100%" cellspacing="0" cellpadding="20" border="0" align="center">
+            <table width="100%" cellspacing="0" cellpadding="20" border="0" align="center" class="section">
               <tbody>
                 <tr>
                   <td> <heading id="synergistic">Synergistic Activities</heading></td>
                 </tr>
-              </tbody>
-            </table>
-            <table width="100%" cellpadding="20" border="0" align="center">
-              <tbody>
                 <tr>
                   <td width="25%"><img src="synergy.PNG" alt="prl" height="160" width="160"></td>
                   <td width="75%" valign="top">
@@ -2097,5 +2103,77 @@ the correct bags. </p>
     }, { threshold: 0.12 });
     rows.forEach(function(r){ obs.observe(r); });
   })();
+  
+  // Scroll progress indicator
+  window.addEventListener('scroll', function() {
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 100;
+    document.querySelector('.scroll-progress').style.width = scrolled + '%';
+  });
+  
+  // Back to top button
+  var backToTop = document.createElement('button');
+  backToTop.className = 'back-to-top';
+  backToTop.innerHTML = '<i class="fa-solid fa-arrow-up"></i>';
+  backToTop.setAttribute('aria-label', 'Back to top');
+  document.body.appendChild(backToTop);
+  
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      backToTop.classList.add('visible');
+    } else {
+      backToTop.classList.remove('visible');
+    }
+  });
+  
+  backToTop.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  
+  // Mobile navigation toggle
+  var navToggle = document.querySelector('.mobile-nav-toggle');
+  var navMenu = document.querySelector('.site-nav');
+  
+  if (navToggle) {
+    navToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-open');
+      var icon = navToggle.querySelector('i');
+      if (navMenu.classList.contains('mobile-open')) {
+        icon.className = 'fa-solid fa-xmark';
+      } else {
+        icon.className = 'fa-solid fa-bars';
+      }
+    });
+  }
+  
+  // Close mobile menu when clicking a link
+  var navLinks = document.querySelectorAll('.site-nav a');
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navMenu.classList.contains('mobile-open')) {
+        navMenu.classList.remove('mobile-open');
+        var icon = navToggle.querySelector('i');
+        icon.className = 'fa-solid fa-bars';
+      }
+    });
+  });
+  
+  // Fade in sections on load
+  window.addEventListener('load', function() {
+    var sections = document.querySelectorAll('table.section, table.pubs');
+    sections.forEach(function(section, index) {
+      setTimeout(function() {
+        section.classList.add('fade-in');
+      }, index * 100);
+    });
+  });
 </script>
+    <footer>
+      <p>&copy; <span id="copyright-year"></span> Ziyan Wu. All Rights Reserved.</p>
+    </footer>
+    <script>
+      document.getElementById('copyright-year').textContent = new Date().getFullYear();
+    </script>
+  </body>
 </html>
