@@ -5,3 +5,5 @@ _site/
 vendor/
 *.html
 *.liquid
+*.scss
+assets/css/
