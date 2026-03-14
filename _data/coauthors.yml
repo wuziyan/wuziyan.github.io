@@ -1,0 +1,668 @@
+---
+li:
+- firstname:
+  - Runze
+  - R.
+  url: https://scholar.google.com/citations?user=bCvdh54AAAAJ&hl=en
+- firstname:
+  - Kunpeng
+  - K.
+  url: https://kunpengli1994.github.io/
+- firstname:
+  - Ren
+  - R.
+  url: https://liren2515.github.io/page/
+- firstname:
+  - Shanglin
+  - S.
+  url: https://scholar.google.com/citations?user=4N1hFycAAAAJ
+- firstname:
+  - Yamin
+  - Y.
+  url: https://scholar.google.com/citations?user=lWarbfUAAAAJ&hl=en
+- firstname:
+  - Yang
+  - Y.
+  url: https://www.linkedin.com/in/yangli625
+zakharov:
+- firstname:
+  - Sergey
+  - S.
+  url: http://campar.in.tum.de/Main/SergeyZakharov
+ilic:
+- firstname:
+  - Slobodan
+  - S.
+  url: http://campar.in.tum.de/Main/SlobodanIlic
+peng:
+- firstname:
+  - Kuan-Chuan
+  - K.
+  url: http://chenlab.ece.cornell.edu/people/kuanchuan/
+- firstname:
+  - Kuan-Chuan
+  - K.
+  url: https://scholar.google.com/citations?user=GBi3LYkAAAAJ&hl=en
+- firstname:
+  - Qucheng
+  - Q.
+  url: https://scholar.google.com/citations?user=IFqidw4AAAAJ&hl=en
+das:
+- firstname:
+  - Abir
+  - A.
+  url: http://cse.iitkgp.ac.in/~adas/
+zheng:
+- firstname:
+  - Meng
+  - M.
+  url: http://homepages.rpi.edu/~zhengm3/
+- firstname:
+  - Meng
+  - M.
+  url: https://mzhengrpi.github.io/
+- firstname:
+  - Yefeng
+  - Y.
+  url: https://scholar.google.com/citations?user=vAIECxgAAAAJ
+itti:
+- firstname:
+  - Laurent
+  - L.
+  url: http://ilab.usc.edu/itti/
+planche:
+- firstname:
+  - Benjamin
+  - B.
+  url: http://planche.me/
+singh:
+- firstname:
+  - Rajat Vikram
+  - R.V.
+  url: http://rajatvikramsingh.github.io/
+aich:
+- firstname:
+  - Abhishek
+  - A.
+  url: https://abhishekaich27.github.io/
+ding:
+- firstname:
+  - Hao
+  - H.
+  url: https://arcade.cs.jhu.edu/members/hao-ding.html
+xiao:
+- firstname:
+  - Yao
+  - Y.
+  url: https://avaxiao.github.io/
+bagci:
+- firstname:
+  - Ulas
+  - U.
+  url: https://bagcilab.com/people/ulas-bagci-phd/
+yao:
+- firstname:
+  - Barry
+  - B.
+  url: https://barry-yao.netlify.app/
+niethammer:
+- firstname:
+  - Marc
+  - M.
+  url: https://biag.cs.unc.edu/
+batra:
+- firstname:
+  - Dhruv
+  - D.
+  url: https://computing.ece.vt.edu/~dbatra/
+parikh:
+- firstname:
+  - Devi
+  - D.
+  url: https://computing.ece.vt.edu/~parikh/
+georgakis:
+- firstname:
+  - Georgios
+  - G.
+  url: https://cs.gmu.edu/~ggeorgak/
+kosecka:
+- firstname:
+  - Jana
+  - J.
+  url: https://cs.gmu.edu/~kosecka/
+doermann:
+- firstname:
+  - David
+  - D.
+  url: https://cse.buffalo.edu/~doermann/
+yuan:
+- firstname:
+  - Junsong
+  - J.
+  url: https://cse.buffalo.edu/~jsyuan/
+deng:
+- firstname:
+  - Andong
+  - A.
+  url: https://dengandong.github.io/
+sebe:
+- firstname:
+  - Nicu
+  - N.
+  url: https://disi.unitn.it/~sebe/
+noble:
+- firstname:
+  - Jack
+  - J.
+  url: https://engineering.vanderbilt.edu/bio/?pid=jack-noble
+xia:
+- firstname:
+  - Ruihao
+  - R.
+  url: https://github.com/XiaRho/
+gong:
+- firstname:
+  - Xuan
+  - X.
+  url: https://gong-xuan.github.io/
+- firstname:
+  - Yunye
+  - Y.
+  url: https://www.ece.cornell.edu/research/grad-students/yunye-gong
+ge:
+- firstname:
+  - Yunhao
+  - Y.
+  url: https://gyhandy.github.io/
+asif:
+- firstname:
+  - M. Salman
+  - M.S.
+  url: https://intra.ece.ucr.edu/~sasif/
+- firstname:
+  - M Salman
+  - M.S.
+  url: https://intra.ece.ucr.edu/~sasif/
+karanam:
+- firstname:
+  - Srikrishna
+  - S.
+  url: https://karanams.github.io/
+song:
+- firstname:
+  - Liangchen
+  - L.
+  url: https://lsongx.github.io/
+gou:
+- firstname:
+  - Mengran
+  - M.
+  url: https://neu-gou.github.io/
+bao:
+- firstname:
+  - Yuxiang
+  - Y.
+  url: https://openreview.net/profile?id=~Yuxiang_Bao1
+panda:
+- firstname:
+  - Rameswar
+  - R.
+  url: https://rpand002.github.io/
+yang:
+- firstname:
+  - Fan
+  - F.
+  url: https://sites.google.com/a/temple.edu/fan-yang/
+xie:
+- firstname:
+  - Luyuan
+  - L.
+  url: https://scholar.google.com/citations?user=6DN-P4wAAAAJ&hl=zh-CN
+zhou:
+- firstname:
+  - Huayi
+  - H.
+  url: https://scholar.google.com/citations?user=a876WNUAAAAJ
+- firstname:
+  - Xiang Sean
+  - X.S.
+  url: https://scholar.google.com/citations?user=-bp44DoAAAAJ&hl=en
+chen:
+- firstname:
+  - Xiao
+  - X.
+  url: https://scholar.google.com/citations?user=DV61tzoAAAAJ&hl=en
+- firstname:
+  - Terrence
+  - T.
+  url: http://www.ifp.illinois.edu/~tchen5/AboutMe.html
+- firstname:
+  - Chen
+  - C.
+  url: https://www.crcv.ucf.edu/chenchen/index.html
+- firstname:
+  - Bor-Jeng
+  - B.
+  url: https://sites.google.com/site/borjengchen/
+- firstname:
+  - Meida
+  - M.
+  url: https://scholar.google.com/citations?user=ii7ZwfQAAAAJ&hl=en
+shi:
+- firstname:
+  - Yinghuan
+  - Y.
+  url: https://scholar.google.com/citations?user=m6BKDUMAAAAJ&hl=en
+- firstname:
+  - Feng
+  - F.
+  url: https://scholar.google.com/citations?user=MztESj8AAAAJ&hl=en
+- firstname:
+  - Jun
+  - J.
+  url: https://scholar.google.com/citations?user=GLF3Pl8AAAAJ&hl=en
+lou:
+- firstname:
+  - Ange
+  - A.
+  url: https://scholar.google.com/citations?user=GwWK7IoAAAAJ&hl=en
+sun:
+- firstname:
+  - Shanhui
+  - S.
+  url: https://sites.google.com/site/shanhuisun
+- firstname:
+  - Qiyu
+  - Q.
+  url: https://scholar.google.com/citations?user=HS2WuHkAAAAJ
+zhang:
+- firstname:
+  - Baochang
+  - B.
+  url: https://scholar.google.com/citations?user=ImJz6MsAAAAJ
+- firstname:
+  - Dong
+  - D.
+  url: http://www.dromston.com/
+choudhuri:
+- firstname:
+  - Anwesa
+  - A.
+  url: https://scholar.google.com/citations?user=KQnKUHKGFdUC&hl=en
+wang:
+- firstname:
+  - Jun
+  - J.
+  url: https://scholar.google.com/citations?user=dpMPbHsAAAAJ&hl=en
+- firstname:
+  - Lezi
+  - L.
+  url: http://wanglezi.github.io/
+- firstname:
+  - Yue
+  - Y.
+  url: https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en
+- firstname:
+  - Bin
+  - B.
+  url: https://ukaukaaaa.github.io/
+- firstname:
+  - Qian
+  - Q.
+  url: https://scholar.google.com/citations?user=m6ZNDewAAAAJ&hl=en
+guo:
+- firstname:
+  - Hengtao
+  - H.
+  url: https://scholar.google.com/citations?user=MiOqrWkAAAAJ
+huo:
+- firstname:
+  - Jiayu
+  - J.
+  url: https://scholar.google.com/citations?user=mtnWns8AAAAJ&hl=zh-CN
+liu:
+- firstname:
+  - Qin
+  - Q.
+  url: https://scholar.google.com/citations?user=o209D9kAAAAJ&hl=en
+- firstname:
+  - Yuchun
+  - Y.
+  url: https://www.linkedin.com/in/yuchun-liu
+- firstname:
+  - Bo
+  - B.
+  url: http://scholar.google.com/citations?user=2Fe93n8AAAAJ&hl=en
+- firstname:
+  - Rong
+  - R.
+  url: https://scholar.google.com/citations?user=MrWUyWkAAAAJ&hl=en
+- firstname:
+  - Wenqian
+  - W.
+  url: https://scholar.google.com/citations?user=6yh4f4YAAAAJ&hl=en
+cai:
+- firstname:
+  - Xiran
+  - X.
+  url: https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=en
+- firstname:
+  - Zikui
+  - Z.
+  url: https://zikuicai.github.io/
+dutta:
+- firstname:
+  - Arindam
+  - A.
+  url: https://scholar.google.com/citations?user=QTqGtPoAAAAJ&hl=en
+cheng:
+- firstname:
+  - Jie-Zhi
+  - J.
+  url: https://scholar.google.com/citations?user=tSpNhZcAAAAJ&hl=en
+gao:
+- firstname:
+  - Zhongpai
+  - Z.
+  url: https://sites.google.com/site/gaozhongpai/home
+dhar:
+- firstname:
+  - Prithviraj
+  - P.
+  url: https://sites.google.com/site/prithvirajdhar274/
+luan:
+- firstname:
+  - Tianyu
+  - T.
+  url: https://tyluann.github.io/
+roy-chowdhury:
+- firstname:
+  - Amit K.
+  - A.K.
+  url: https://vcg.engr.ucr.edu/amit
+radke:
+- firstname:
+  - Richard J.
+  - R.J.
+  url: https://www.ecse.rpi.edu/~rjradke/index.htm
+- firstname:
+  - Prof Richard J
+  - P.R.J.
+  url: https://www.ecse.rpi.edu/%7Erjradke/index.htm
+zhao:
+- firstname:
+  - Chaoqiang
+  - C.
+  url: https://zxcqlf.github.io/
+wu:
+- firstname:
+  - Junyi
+  - J.
+  url: https://adreamwu.github.io/
+tang:
+- firstname:
+  - Zhenyu
+  - Z.
+  url: https://royjames.github.io/zhy/
+- firstname:
+  - Yang
+  - Y.
+  url: http://www.ytangecust.com/
+scholar:
+- firstname:
+  - Google
+  - G.
+  url: https://scholar.google.com/citations?user=CkPUb-4AAAAJ
+autonomy:
+- firstname:
+  - Empowering Medical Scanners with
+  - E.M.S.w.
+  url: https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html
+days:
+- firstname:
+  - IAD
+  - I.
+  url: https://www.buffalo.edu/ai-data-science/news-events/events/iad-days/2022.html
+sharma:
+- firstname:
+  - Abhishek
+  - A.
+  url: https://www.linkedin.com/in/abhi5heksharma
+sibut-bourde:
+- firstname:
+  - Pierre
+  - P.
+  url: https://www.researchgate.net/profile/Pierre-Sibut-Bourde
+huang:
+- firstname:
+  - Yawen
+  - Y.
+  url: https://yawen-hwang.github.io/
+vedula:
+- firstname:
+  - Rishi
+  - R.
+  url: https://www.linkedin.com/in/rishivedula
+innanje:
+- firstname:
+  - Arun
+  - A.
+  url: https://www.linkedin.com/in/arun-innanje
+meng:
+- firstname:
+  - Mancheng
+  - M.
+  url: https://www.linkedin.com/in/%E6%BB%A1%E6%88%90-%E5%AD%9F-823010161
+shen:
+- firstname:
+  - Dinggang
+  - D.
+  url: https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en
+ling:
+- firstname:
+  - Haibin
+  - H.
+  url: https://www3.cs.stonybrook.edu/~hling/
+bhanu:
+- firstname:
+  - Bir
+  - B.
+  url: https://vislab.ucr.edu/PEOPLE/BIR_BHANU/index.php
+xu:
+- firstname:
+  - Zhi
+  - Z.
+  url: https://scholar.google.com/citations?user=ngO9JHUAAAAJ&hl=en
+kutbi:
+- firstname:
+  - Mohammed
+  - M.
+  url: https://scholar.google.com/citations?user=HkKr0RMAAAAJ&hl=en
+ouyang:
+- firstname:
+  - Xi
+  - X.
+  url: https://scholar.google.com/citations?user=bCvdh54AAAAJ&hl=en
+hu:
+- firstname:
+  - Wei
+  - W.
+  url: https://www.researchgate.net/profile/Wei_Hu15
+he:
+- firstname:
+  - Kelei
+  - K.
+  url: https://scholar.google.com/citations?user=0Do_BMIAAAAJ&hl=en
+camps:
+- firstname:
+  - Octavia
+  - O.
+  url: http://www.ece.neu.edu/people/camps-octavia
+rong:
+- firstname:
+  - Xuejian
+  - X.
+  url: https://xrong.org/
+kosch:
+- firstname:
+  - Harald
+  - H.
+  url: http://www.fim.uni-passau.de/en/distributed-information-systems/
+tian:
+- firstname:
+  - YingLi
+  - Y.
+  url: http://scholar.google.com/citations?user=aAWeB4wAAAAJ&hl=en
+ernst:
+- firstname:
+  - Jan
+  - J.
+  url: http://scholar.google.com/citations?user=hFUJkFgAAAAJ&hl=en
+hutter:
+- firstname:
+  - Andreas
+  - A.
+  url: https://www.researchgate.net/profile/Andreas_Hutter
+metaxas:
+- firstname:
+  - Dimitris N
+  - D.N.
+  url: https://www.cs.rutgers.edu/~dnm/
+- firstname:
+  - Dimitris N.
+  - D.
+  url: https://www.cs.rutgers.edu/~dnm/
+fu:
+- firstname:
+  - Yun
+  - Y.
+  url: http://www1.ece.neu.edu/~yunfu/
+chellappa:
+- firstname:
+  - Rama
+  - R.
+  url: http://users.umiacs.umd.edu/~rama/
+goyal:
+- firstname:
+  - Yash
+  - Y.
+  url: https://www.cc.gatech.edu/~ygoyal3/
+lee:
+- firstname:
+  - Stefan
+  - S.
+  url: https://www.cc.gatech.edu/~slee3191/
+doerschuk:
+- firstname:
+  - Peter C
+  - P.C.
+  url: https://www.bme.cornell.edu/faculty-directory/peter-doerschuk
+- firstname:
+  - Peter C.
+  - P.
+  url: https://www.bme.cornell.edu/faculty-directory/peter-doerschuk
+ma:
+- firstname:
+  - Kai
+  - K.
+  url: https://scholar.google.com/citations?user=FSSXeyAAAAAJ&hl=en
+kluckner:
+- firstname:
+  - Stefan
+  - S.
+  url: http://www.kluckner.com/
+hebble:
+- firstname:
+  - Tom
+  - T.
+  url: https://linkedin.com/in/tom-hebble-8b625b55
+lehmann:
+- firstname:
+  - Oliver
+  - O.
+  url: https://scholar.google.com/citations?user=dkK56rkAAAAJ&hl=en
+xiong:
+- firstname:
+  - Fei
+  - F.
+  url: https://scholar.google.com/citations?user=zs3rtqcAAAAJ&hl=en
+smith:
+- firstname:
+  - Elisa Barney
+  - E.B.
+  url: http://coen.boisestate.edu/EBarneySmith/
+lopresti:
+- firstname:
+  - Daniel
+  - D.
+  url: http://www.cse.lehigh.edu/~lopresti/
+nagy:
+- firstname:
+  - George
+  - G.
+  url: https://www.ecse.rpi.edu/~nagy/
+data:
+- firstname:
+  - Worshop on Vision with Biased and Scarce
+  - W.o.V.w.B.a.S.
+  url: https://wvbsd.github.io/2018/index.html
+vision:
+- firstname:
+  - Worshop on Fair, Data Efficient and Trusted Computer
+  - W.o.F.D.E.a.T.C.
+  url: https://fadetrcv.github.io/2020/
+spotlight:
+- firstname:
+  - EXPO
+  - E.
+  url: http://cvpr2017.thecvf.com/exhibit/spotlights
+credit:
+- firstname:
+  - Template
+  - T.
+  url: https://jonbarron.info/
+su:
+- firstname:
+  - Yuhao
+  - Y.
+  url: https://scholar.google.com/citations?user=4tRQw54AAAAJ&hl=en
+nguyen:
+- firstname:
+  - Van Nguyen
+  - V.
+  url: https://nv-nguyen.github.io/
+elhamifar:
+- firstname:
+  - Ehsan
+  - E.
+  url: https://scholar.google.com/citations?user=cpgUf6wAAAAJ&hl=en
+tao:
+- firstname:
+  - Jiachen
+  - J.
+  url: https://scholar.google.com/citations?user=NsYqGP8AAAAJ&hl=en
+yan:
+- firstname:
+  - Yan
+  - Y.
+  url: https://tomyan555.github.io/
+feng:
+- firstname:
+  - Andrew
+  - A.
+  url: https://scholar.google.com/citations?user=JKWxGfsAAAAJ&hl=en
+chiu:
+- firstname:
+  - Han-Pang
+  - H.
+  url: https://scholar.google.com/citations?user=a-gkZ9kAAAAJ&hl=en
+zhu:
+- firstname:
+  - Zhiwei
+  - Z.
+  url: https://scholar.google.com/citations?hl=en&user=uCZgwJMAAAAJ
+barney smith:
+- firstname:
+  - Elisa
+  - E.
+  url: http://coen.boisestate.edu/EBarneySmith/
