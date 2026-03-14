@@ -1,0 +1,5 @@
+Ziyan Wu currently serves as the Senior Director of Computer Vision and Robotics at United Imaging Intelligence in Burlington, MA. Prior to joining UII in 2019, he held the position of Senior Key Expert Scientist specializing in vision technologies and solutions at Siemens Corporate Research in Princeton, NJ since 2014.
+
+Dr. Wu earned his Ph.D. degree in Computer and Systems Engineering from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute in Troy, NY in 2014. During his academic journey, he was affliated with the Department of Homeland Security Center of Excellence on Explosives Detection, Mitigation, and Response (ALERT) from 2009 to 2014.
+
+His was named a Honeywell Innovator in 2008 and received the Allen B. DuMont Prize in 2014. Dr. Wu’s research interests span a wide spectrum, encompassing areas such as explainable AI, robotic visual perception in medical environments, medical image analysis, 2D/3D object recognition and pose estimation, scene understanding, and surgical video summarization.
