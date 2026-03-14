@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wuziyan.github.io/sitemap.xml
+Sitemap: https://wuziyan.com/sitemap.xml
