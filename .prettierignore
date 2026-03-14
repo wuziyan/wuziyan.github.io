@@ -7,3 +7,7 @@ vendor/
 *.liquid
 *.scss
 assets/css/
+**/*.min.js
+_data/
+_config.yml
+_news/
