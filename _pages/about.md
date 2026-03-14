@@ -14,7 +14,7 @@ selected_papers: true
 social: true
 ---
 
-I serve as VP of R&D at [United Imaging Intelligence](https://uii-ai.com/) (**UII America**) in Boston, MA, where I lead the creation of **computer vision**, **machine learning**, and **intelligent robotic systems** for medical environments.
+I serve as VP of R&D at [United Imaging Intelligence](https://www.uii-ai.com/) (**UII America**) in Boston, MA, where I lead the creation of **computer vision**, **machine learning**, and **intelligent robotic systems** for medical environments.
 
 Previously, I worked as a Senior Key Expert Scientist at **Siemens Corporate Research** in Princeton, NJ and as a System Engineer at **Honeywell Technology Solutions Labs** in Shanghai, China, respectively.
 
