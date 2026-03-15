@@ -19,6 +19,13 @@ strong {
   color: var(--global-text-color);
 }
 
+@media (max-width: 576px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+  body { font-size: 0.95rem; }
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -395,6 +402,15 @@ ul.task-list input[type="checkbox"] {
         i::before {
           color: var(--global-theme-color);
         }
+      }
+    }
+  }
+
+  &.hero-icons {
+    .contact-icons {
+      a {
+        margin: 0 0.75rem;
+        display: inline-block;
       }
     }
   }
@@ -797,6 +813,20 @@ footer.sticky-bottom {
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+          }
+        }
+
+        // Better tap spacing for mobile
+        @media (max-width: 576px) {
+          margin-bottom: 0.5rem;
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.5rem;
+
+          a.btn {
+            margin-bottom: 0;
+            flex-grow: 1;
+            text-align: center;
           }
         }
         a.award.btn {
