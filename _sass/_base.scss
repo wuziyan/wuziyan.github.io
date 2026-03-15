@@ -200,11 +200,12 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
-  float: none !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
+  width: 50%;
+  max-width: 180px; /* Constrain the size strictly for mobile */
+  margin-left: auto !important;
+  margin-right: auto !important;
   margin-bottom: 2rem;
+  display: block; /* Center it */
 
   .more-info {
     margin-bottom: 5px;
@@ -218,18 +219,21 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   .profile {
     width: 30%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    display: inline-block;
 
     &.float-right {
       float: right !important;
-      margin-left: 1rem !important;
+      margin-left: 1.5rem !important;
     }
 
     &.float-left {
       float: left !important;
-      margin-right: 1rem !important;
+      margin-right: 1.5rem !important;
     }
 
     .address {
@@ -339,13 +343,14 @@ ul.task-list input[type="checkbox"] {
 }
 
 .navbar-toggler {
+  padding: 0.5rem 0.75rem; /* Increase tap area */
   .icon-bar {
     display: block;
-    width: 22px;
-    height: 2px;
+    width: 25px; /* Slightly wider */
+    height: 3px; /* Ticker lines */
     background-color: var(--global-text-color);
-    border-radius: 1px;
-    margin-bottom: 4px;
+    border-radius: 2px;
+    margin-bottom: 5px; /* More space between lines */
     transition: all 0.2s;
   }
 
@@ -711,10 +716,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
-
-      .preview {
-      }
+      margin-bottom: 2rem; /* Increased spacing for touch targets */
 
       .preview-container {
         position: relative;
